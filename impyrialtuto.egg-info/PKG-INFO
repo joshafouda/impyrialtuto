@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: impyrialtuto
+Version: 0.1.0
+Summary: A package for converting impyrial lengths and weights.
+Home-page: UNKNOWN
+Author: Josue Afouda
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # impyrialtuto
 
 ## Introduction
@@ -176,4 +187,6 @@ touch README.md # Il est préférable de générer ce fichier pendant la créati
 touch setup.py
 touch example_script.py
 ```
+
+
 
